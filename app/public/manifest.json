@@ -1,13 +1,14 @@
 {
+    "manifest_version": 2,
     "short_name": "Pchara",
     "name": "Pchara #PWA",
     "icons": [{
-        "src": "images/icons/launcher-icon.png",
+        "src": "/images/icons/launcher-icon.png",
         "sizes": "48x48",
         "type": "image/png"
     }],
     "start_url": "./",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "portrait",
     "theme_color": "#FF5605",
     "background_color": "#FF5605"
