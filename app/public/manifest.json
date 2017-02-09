@@ -2,7 +2,7 @@
     "short_name": "Pchara",
     "name": "Pchara #PWA",
     "icons": [{
-        "src": "/launcher-icon.png",
+        "src": "images/icons/launcher-icon.png",
         "sizes": "48x48",
         "type": "image/png"
     }],
